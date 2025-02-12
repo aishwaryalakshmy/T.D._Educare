@@ -57,7 +57,7 @@ start index.html # For Windows
 
 🎓 About T.D. Educare
 
-T.D. Educare provides quality education with a unique curriculum, multicultural environment, and abundant learning opportunities. This website aims to reflect the institution's commitment to student growth and development.
+T.D. Educare provides quality education through a unique curriculum, a multicultural environment, and abundant learning opportunities, reflecting the institution's commitment to student growth and development. Its animated, responsive website offers an engaging and interactive user experience, showcasing various courses, subjects, expert tutors, and user-friendly admission/contact forms. Key features include a responsive design optimized for mobile, tablet, and desktop devices, interactive sliders powered by Swiper.js to dynamically highlight courses, subjects, and tutors, and intuitive contact and admission forms for seamless communication. The website ensures smooth navigation with a seamless scrolling experience, a dark mode toggle for light and dark themes to enhance accessibility, and a modern UI enriched with Font Awesome icons for a sleek, professional look.
 
 👤 Author
 
